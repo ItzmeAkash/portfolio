@@ -1,7 +1,7 @@
 import React from 'react'
 import './NavBar.css'
-import logo from './../../assets/logo.png'
-import contact from './../../assets/contact.png'
+import logo from '../../assets/logo.png'
+import contact from '../../assets/contact.png'
 import {Link} from 'react-scroll'
 const NavBar = () => {
   return (
